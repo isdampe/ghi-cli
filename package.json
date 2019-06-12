@@ -3,7 +3,9 @@
 	"version": "0.1.0",
 	"description": "Create, edit, comment and update GitHub issues directly from the terminal.",
 	"main": "ghi.js",
-	"bin": "ghi.js",
+	"bin": {
+		"ghi": "ghi.js"
+	},
 	"dependencies": {
 		"github-api": "^3.2.0",
 		"blessed": "^0.1.81",
