@@ -16,7 +16,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/isdampe/ghicli.git"
+		"url": "git+https://github.com/isdampe/ghi-cli.git"
 	},
 	"keywords": [
 		"github",
@@ -28,7 +28,7 @@
 	"author": "isdampe",
 	"license": "GPL-2.0-only",
 	"bugs": {
-		"url": "https://github.com/isdampe/ghicli/issues"
+		"url": "https://github.com/isdampe/ghi-cli/issues"
 	},
-	"homepage": "https://github.com/isdampe/ghicli#readme"
+	"homepage": "https://github.com/isdampe/ghi-cli#readme"
 }
