@@ -19,8 +19,6 @@ const main = async () => {
 
 	const core = new GhiCore(sessionConfig);
 	core.main();
-	//console.log(await core.fetchIssues());
-
 };
 
 main();
